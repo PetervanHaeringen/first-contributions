@@ -3312,6 +3312,7 @@ Philip Ambattu
 - [Magframed](https://github.com/SarthakH19)
 - [Kushal](https://github.com/kushal-p1699)
 - [Akshith](https://github.com/Akshith1998)
+- [Peter](https://github.com/PetervanHaeringen)
 - [Michael]
 - [Mary Ejike](https://github.com/genejike)
 - [Gilbert Ozioma](https://github.com/gilbertozioma)
@@ -4918,6 +4919,5 @@ git stat
 - [Akash Javali](https://github.com/akashjavali)
 - [Shrinav Loka] (https://github.com/lokashrinav)
 - [Talasia Calderon](https://github.com/TalasiaCalderon)
-  - [Benjamin-Appiah-Poku](https://github.com/Benappiahpoku)
 - [Joyce](https://github.com/swejoycechoi)
 - [bob-feracho](https://github.com/bob-feracho)
